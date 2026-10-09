@@ -12,6 +12,7 @@
 ### AI
 
 - [claude-code-memory.md](AI/claude-code-memory.md)：Claude Code 记忆管理笔记
+- [skills-inventory.md](AI/skills-inventory.md)：已安装 agent skill 清单（31 个，含来源与使用建议）
 
 ### 工具
 
